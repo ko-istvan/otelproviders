@@ -1,4 +1,4 @@
-module examples.com/otelProviders
+module github.com/ko-istvan/otelproviders
 
 go 1.22.0
 
